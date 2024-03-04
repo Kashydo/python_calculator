@@ -20,10 +20,9 @@ How to Use
 Copy code
 git clone [repository_url]
 cd python_calculator
-Run the Application: Execute the Python script to launch the calculator.
 ```
-
-2. ***Copy code***
+2. **Run the Application:** Execute the Python script to launch the calculator.
+Copy code
 
 ```bash
 python calculator.py
