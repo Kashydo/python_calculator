@@ -19,14 +19,14 @@ How to Use
 ```bash
 Copy code
 git clone [repository_url]
-cd simple-calculator-python
+cd python-calculator
 Run the Application: Execute the Python script to launch the calculator.
 ```
 
 2. ***Copy code***
 
 ```bash
-python calculator.py
+python python-calculator.py
 ```
 
 3. ***Perform Calculations:*** Use the GUI to perform basic arithmetic calculations effortlessly.
