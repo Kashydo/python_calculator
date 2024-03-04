@@ -1,5 +1,6 @@
 <h1>Calculator - Exercise Python</h1>
-<img src="https://giphy.com/gifs/video-art-zita-nagy-xT1R9O1VqHxEMqmM7u" width="600">
+<img src="https://giphy.com/embed/xT1R9O1VqHxEMqmM7u" width="600">
+
 
 Welcome to the Simple Calculator exercise in Python with a basic GUI using tkinter! 🐍🧮
 
